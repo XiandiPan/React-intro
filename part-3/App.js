@@ -1,8 +1,9 @@
 function App() {
   return (
     <div>
-      <Name name="cindy" />
-      <First/>
+      <Person name= age= hobbies />
+
+
     </div>
   );
 }

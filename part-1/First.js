@@ -1,4 +1,4 @@
-function Friend() {
+function First() {
   return (
     <div>
       <h1>My very first component</h1>
